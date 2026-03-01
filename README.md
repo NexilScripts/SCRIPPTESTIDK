@@ -1,2 +1,2 @@
 # SCRIPPTESTIDK
-Some things for our scripts idk
+idk this is for some random script tests i guess
